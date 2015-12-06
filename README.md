@@ -1,5 +1,5 @@
 # Learning Ruby
-The sole project of this project is to learn Ruby and the environment and tools around it. 
+The sole purpose of this project is to learn Ruby and the environment and tools around it. 
 
 ## Installation
 
